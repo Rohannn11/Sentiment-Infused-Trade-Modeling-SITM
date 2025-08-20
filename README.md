@@ -17,27 +17,6 @@ The approach focuses on uncovering how **market sentiment regimes** influence pr
 
 ---
 
-## 📂 Repository Structure
-├── notebooks/
-│ ├── DataIngestion&Validation.ipynb # Data cleaning, validation, aggregation
-│ ├── ExploratoryDataAnalysis&Analytics.ipynb # Exploratory analysis & sentiment impact
-│ ├── FeatureEngineering&MODELS4.ipynb # Feature creation, modeling, backtesting
-│
-├── csv_files/
-│ ├── trades_cleaned.csv
-│ ├── daily_aggregates.csv
-│ ├── trades_merged.csv
-│ ├── trader_clusters.csv
-│ ├── sentiment_regimes.csv
-│ ├── backtest_results.csv
-│ ├── ...
-│
-├── outputs/
-│ ├── plots/
-│ ├── interactive_html/
-│
-
-
 ## 🔍 Key Steps
 
 ### 1️⃣ Data Ingestion & Validation
